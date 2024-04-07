@@ -81,7 +81,7 @@ RegisterNumber: 212223040172
 
 
 ## RTL
-![Timing](https://github.com/rohithprem18/study-of-basic-gates/assets/146315115/f612fa9d-b42c-423f-b5d7-0ae6fe0f0d37)
+![Screenshot 2024-04-07 133750](https://github.com/rohithprem18/study-of-basic-gates/assets/146315115/ac982663-11b9-4202-afa8-5fd98256e237)
 
 
 ## Result:
